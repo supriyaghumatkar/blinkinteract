@@ -1,0 +1,3 @@
+[25-Nov-2018 13:53:12 UTC] PHP Warning:  fopen(/home/umpcal5yrhhx/public_html/staging-blink-interactive/wp-content/plugins/wp-contact-slider/wp_contact_slider.php): failed to open stream: No such file or directory in /home/umpcal5yrhhx/public_html/wp-includes/functions.php on line 4848
+[25-Nov-2018 13:53:12 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/umpcal5yrhhx/public_html/wp-includes/functions.php on line 4851
+[25-Nov-2018 13:53:12 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/umpcal5yrhhx/public_html/wp-includes/functions.php on line 4854
